@@ -1,0 +1,160 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  background-color: #fdf9ee;
+}
+
+.ancho {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.margen {
+  padding: 15px;
+}
+
+.centrar {
+  text-align: center;
+}
+
+.negritas {
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+.barra-rosita {
+  border-top: 30px solid #e5357e;
+}
+
+.logo {
+  vertical-align: middle;
+  text-align: auto;
+  display: inline-block;
+  width: 30%;
+}
+
+.redes {
+  vertical-align: middle;
+  text-align: right;
+  display: inline-block;
+  width: 65%;
+}
+
+.navegacion {
+  max-width: 1200px;
+  text-align: center;
+  border: 2px solid black;
+}
+
+.navegacion a:hover {
+  color: #e5347e;
+}
+
+.imagenfondo {
+  background-image: url(/imagenes/fondopiedras.jpg);
+  height: 500px;
+}
+
+.textofondo {
+  font-family: Impact;
+  padding-top: 150px;
+  text-align: center;
+  margin: auto;
+}
+.textofondo h1 {
+  color: solid #fcf9f0;
+  font-family: Impact;
+  padding-top: 150px;
+  text-align: center;
+  margin: auto;
+}
+
+.botones-promo {
+  padding-top: 150px;
+  text-align: center;
+  margin: auto;
+}
+
+.boton-fondo {
+  background-color: #e5357e;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  padding: 12px 30px;
+  display: inline-block;
+  font-size: 15px;
+  font-weight: bold;
+  margin: 5px;
+}
+.botonsinfondo {
+  background-color: transparent;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  border: 2px solid #e5357e;
+  padding: 12px 30px;
+  display: inline-block;
+  font-size: 15px;
+  font-weight: bold;
+  margin: 5px;
+}
+
+.info {
+  vertical-align: top;
+  text-align: left;
+  display: inline-block;
+  width: 49%;
+}
+
+.imagenvelas {
+  vertical-align: top;
+  text-align: right;
+  display: inline-block;
+  width: 49%;
+}
+
+.textotitulo {
+  text-align: center;
+  font-family: Impact;
+  font-size: 40px;
+}
+
+.contedor_1 {
+  height: 400px;
+  background-color: #ffe7a5;
+  width: 33%;
+  text-align: center;
+  padding-top: 30px;
+  display: inline-block;
+  vertical-align: top;
+}
+.contedor_1 img {
+  border-radius: 90px;
+}
+.contedor_1 h2 {
+  font-family: Impact;
+  font-weight: 100;
+}
+.btnRosa {
+  background-color: #e5357e;
+  padding: 15px 20px;
+}
+
+.logoabajo {
+  text-align: center;
+  background-color: white;
+}
+
+.barraabajo {
+  border-bottom: 30px solid #e5357e;
+}
